@@ -1,7 +1,7 @@
 ---
-title: Hello World
+title: Welcome to m new world
 date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+description: "Basic website testing"
 ---
 
 This is my first post on my new fake blog! How exciting!
@@ -37,8 +37,7 @@ const saltyDuckEgg = "chinese preserved food product"
 
 This is a paragraph.
 
-    This is a paragraph.
-
+Heya how are you all I hope you all are doing fine as new year is approaching you all should be excited with your new resolutions. I hope all your dreams come true keep Hustling
 # Header 1
 
 ## Header 2

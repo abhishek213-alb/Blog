@@ -38,100 +38,20 @@ const saltyDuckEgg = "chinese preserved food product"
 This is a paragraph.
 
 Heya how are you all I hope you all are doing fine as new year is approaching you all should be excited with your new resolutions. I hope all your dreams come true keep Hustling
-# Header 1
+
 
 ## Header 2
 
-    Header 1
-    ========
+   Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.”
 
-    Header 2
-    --------
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-
-    # Header 1
-    ## Header 2
-    ### Header 3
-    #### Header 4
-    ##### Header 5
-    ###### Header 6
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-
-    # Header 1 #
-    ## Header 2 ##
-    ### Header 3 ###
-    #### Header 4 ####
-    ##### Header 5 #####
-    ###### Header 6 ######
 
 > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 
     > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 
-> ## This is a header.
->
-> 1. This is the first list item.
-> 2. This is the second list item.
->
-> Here's some example code:
->
->     Markdown.generate();
+> ## Elephant Story
 
-    > ## This is a header.
-    > 1. This is the first list item.
-    > 2. This is the second list item.
-    >
-    > Here's some example code:
-    >
-    >     Markdown.generate();
-
-- Red
-- Green
-- Blue
-
-* Red
-* Green
-* Blue
-
-- Red
-- Green
-- Blue
-
-```markdown
-- Red
-- Green
-- Blue
-
-* Red
-* Green
-* Blue
-
-- Red
-- Green
-- Blue
-```
+- A gentleman was walking through an elephant camp, and he spotted that the elephants weren’t being kept in cages or held by the use of chains. All that was holding them back from escaping the camp, was a small piece of rope tied to one of their legs. As the man gazed upon the elephants, he was completely confused as to why the elephants didn’t just use their strength to break the rope and escape the camp. They could easily have done so, but instead, they didn’t try to at all.
 
 - `code goes` here in this line
 - **bold** goes here

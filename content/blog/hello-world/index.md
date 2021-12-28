@@ -9,7 +9,7 @@ This is my first post on my new fake blog! How exciting!
 I'm sure I'll write a lot more interesting things in the future.
 
 Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+[Quotes](https://media.istockphoto.com/photos/dreams-dont-work-unless-you-do-inspiring-creative-motivation-quote-picture-id1350192262?b=1&k=20&m=1350192262&s=170667a&w=0&h=1VZGX4KmHkINbar4xCSsHaLmkaZGUCN-Bd_xkPeyl9I=).
 
 > A salted duck egg is a Chinese preserved food product made by soaking duck
 > eggs in brine, or packing each egg in damp, salted charcoal. In Asian
